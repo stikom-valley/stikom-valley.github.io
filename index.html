@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Stikom Valley, a bunch of tech-loving crazies"> 
+    <link rel="shortcut icon" href="./assets/logo.png" type="image/x-icon">
+    <title>Stikom Valley</title>
+    <link
+      href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <style>
+      .discord {
+        cursor: pointer;
+        box-shadow: 0 7px #805ad5;
+      }
+
+      .discord:active {
+        position: relative;
+        top: 7px;
+        box-shadow: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="lg:container lg:mx-auto">
+      <div class="flex justify-center">
+        <img src="./assets/logo.png" alt="stikomvalley-logo" width="256" />
+      </div>
+      <div class="text-center font-mono text-lg text-gray-800 text-center">
+        <p class="font-bold">stikomvalley.org</p>
+        <p>a bunch of tech-loving crazies</p>
+      </div>
+      <div class="mt-8 text-center">
+        <p class="font-black text-3xl">Hangout with us, digitally.</p>
+        <a href="https://discord.gg/XAaXrKE" target="_blank">
+          <button
+            class="bg-purple-500 hover:bg-purple-400 text-white font-bold py-2 px-4 border-purple-700 hover:border-purple-500 rounded discord mt-8"
+          >
+            Join Discord Server
+          </button>
+        </a>
+      </div>
+    </div>
+  </body>
+</html>
