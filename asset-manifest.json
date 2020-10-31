@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stikom-valley.github.io/static/css/main.9ce93ad0.chunk.css",
+    "main.js": "/stikom-valley.github.io/static/js/main.5fa04d6a.chunk.js",
+    "main.js.map": "/stikom-valley.github.io/static/js/main.5fa04d6a.chunk.js.map",
+    "runtime-main.js": "/stikom-valley.github.io/static/js/runtime-main.0b32b62b.js",
+    "runtime-main.js.map": "/stikom-valley.github.io/static/js/runtime-main.0b32b62b.js.map",
+    "static/js/2.09095bee.chunk.js": "/stikom-valley.github.io/static/js/2.09095bee.chunk.js",
+    "static/js/2.09095bee.chunk.js.map": "/stikom-valley.github.io/static/js/2.09095bee.chunk.js.map",
+    "static/js/3.8c4eaadc.chunk.js": "/stikom-valley.github.io/static/js/3.8c4eaadc.chunk.js",
+    "static/js/3.8c4eaadc.chunk.js.map": "/stikom-valley.github.io/static/js/3.8c4eaadc.chunk.js.map",
+    "index.html": "/stikom-valley.github.io/index.html",
+    "static/css/main.9ce93ad0.chunk.css.map": "/stikom-valley.github.io/static/css/main.9ce93ad0.chunk.css.map",
+    "static/js/2.09095bee.chunk.js.LICENSE.txt": "/stikom-valley.github.io/static/js/2.09095bee.chunk.js.LICENSE.txt",
+    "static/media/logo.59d338b8.png": "/stikom-valley.github.io/static/media/logo.59d338b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b32b62b.js",
+    "static/js/2.09095bee.chunk.js",
+    "static/css/main.9ce93ad0.chunk.css",
+    "static/js/main.5fa04d6a.chunk.js"
+  ]
+}
