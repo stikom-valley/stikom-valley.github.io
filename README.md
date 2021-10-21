@@ -12,4 +12,10 @@ Landing page for StikomValley, made using React.js and Taildwind.css 💕
 
 <br />
 
+## All Contributor
+<a href="https://github.com/stikom-valley/stikom-valley.github.io
+/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=stikom-valley/stikom-valley.github.io" />
+</a>
+
 </div>
