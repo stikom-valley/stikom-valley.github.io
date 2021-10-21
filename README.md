@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# [surabayajs.org](https://stikom-valley.github.io)
+# [Stikom Valley](https://stikom-valley.github.io)
 
 Landing page for StikomValley, made using React.js and Taildwind.css 💕
 
