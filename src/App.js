@@ -1,4 +1,5 @@
 import logo from './assets/logo.png';
+import PlaySound from "./components/PlaySound";
 
 function App() {
   return (
@@ -18,8 +19,9 @@ function App() {
               className="bg-purple-500 hover:bg-purple-400 text-white font-bold py-2 px-4 border-purple-700 hover:border-purple-500 rounded discord mt-8"
             >
               Join Discord Server
-          </button>
+            </button>
           </a>
+          <PlaySound />
         </div>
       </div>
     </div>
