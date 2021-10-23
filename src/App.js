@@ -55,8 +55,10 @@ function App() {
         </div>
         <div className="mt-8 text-center">
           <p className="font-black text-3xl">Hangout with us, digitally.</p>
-          <a href="https://discord.gg/XAaXrKE" target="_blank">
-            <button className="bg-purple-500 hover:bg-purple-400 text-white font-bold py-2 px-4 border-purple-700 hover:border-purple-500 rounded discord mt-8">
+          <a href="https://discord.gg/XAaXrKE" target="_blank" rel="noopener noreferrer">
+            <button
+              className="bg-purple-500 hover:bg-purple-400 text-white font-bold py-2 px-4 border-purple-700 hover:border-purple-500 rounded discord mt-8"
+            >
               Join Discord Server
             </button>
           </a>
